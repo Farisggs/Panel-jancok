@@ -11,3 +11,7 @@ ngrok http http://localhost:8080
 
 
 ngrok config add-authtoken 2rFlVYhFwN1a5keuKqS0S54iRco_7Pve5ktCzxYRGDYhz4VFL
+
+
+
+ngrok tunnel --label edge=edghts_2rFq7m0Tv1DRZLrPeccKZqv4VCE http://localhost:80
